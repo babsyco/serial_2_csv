@@ -13,10 +13,10 @@ Things that are not checked, ie up to the user to get right, are:
     of values in the recorded rows.
 <br>
 FLAGS:
--h, --help    Display (this) help message. NOTE: program does not run when<br>
+* -h, --help: Display (this) help message. NOTE: program does not run when
                these help flags are included.
--p, --port    Set port. The following argument should be the name of the
+* -p, --port: Set port. The following argument should be the name of the
                serial port.
--b, --baud    Set baud rate. The following argument should be an int.
+* -b, --baud: Set baud rate. The following argument should be an int.
 
 Designed to run on Windows, Linux and Mac OS.
