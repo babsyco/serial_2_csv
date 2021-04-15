@@ -21,3 +21,5 @@ FLAGS:
 * -b, --baud: Set baud rate. The following argument should be an int.
 
 Designed to run on Windows, Linux and Mac OS.
+
+Demo video available (here)[https://drive.google.com/file/d/1pzinTmadcjk-pOsvbEZNIhMFwyMgMltR/view?usp=sharing].
