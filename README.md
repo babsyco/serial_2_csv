@@ -1,7 +1,7 @@
 # serial_2_csv
 
 This program records .csv rows of numerical data streamed via serial as ASCII
-strings (eg "<float>,<float,<float>") until commanded to stop by the user.
+strings (eg "<float\>,<float\>,<float\>") until commanded to stop by the user.
 When recording is stopped the .csv file is created: a plot of the recorded data
 is then displayed and saved as a .png file if the user has selected to do so.
 
