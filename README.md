@@ -13,6 +13,7 @@ Things that are not checked, ie up to the user to get right, are:
     of values in the recorded rows.
 <br>
 FLAGS:
+
 * -h, --help: Display (this) help message. NOTE: program does not run when
                these help flags are included.
 * -p, --port: Set port. The following argument should be the name of the
