@@ -11,9 +11,9 @@ Things that are not checked, ie up to the user to get right, are:
     .csv data (so make sure your serial source is correctly set up!)
 2) Serial2CSV does not check that the number of columns entered equals the number
     of values in the recorded rows.
-
+<br>
 FLAGS:
--h, --help    Display (this) help message. NOTE: program does not run when
+-h, --help    Display (this) help message. NOTE: program does not run when<br>
                these help flags are included.
 -p, --port    Set port. The following argument should be the name of the
                serial port.
